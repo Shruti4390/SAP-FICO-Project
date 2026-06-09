@@ -24,9 +24,8 @@ The Company Code is the legal accounting entity responsible for maintaining comp
 
 * Business Areas
 
-Residential Properties (RES)
-
-Commercial Properties (COM)
+1. Residential Properties (RES)
+2. Commercial Properties (COM)
 
 These Business Areas enable separate financial reporting based on property type.
 
