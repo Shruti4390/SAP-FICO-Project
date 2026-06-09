@@ -31,9 +31,9 @@ These Business Areas enable separate financial reporting based on property type.
 
 * Fiscal Year Variant
 
-January to December Fiscal Year
-12 Posting Periods
-4 Special Periods for Year-End Adjustments
+1. January to December Fiscal Year
+2. 12 Posting Periods
+3. 4 Special Periods for Year-End Adjustments
 
 * Company Code Currency
 
