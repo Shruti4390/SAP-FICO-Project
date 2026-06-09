@@ -6,33 +6,33 @@ Skyline Real Estate Management operates through multiple functional departments 
 
 ## Organizational Departments
 
-Finance Department
+**Finance Department**
 
 * General Ledger Accounting
 * Financial Reporting
 * Month-End Closing
 * Bank Reconciliation
 
-Accounts Payable Team
+**Accounts Payable Team**
 
 * Vendor Master Management
 * Invoice Processing
 * Vendor Payments
 
-Accounts Receivable Team
+**Accounts Receivable Team**
 
 * Customer Billing
 * Lease Revenue Recording
 * Payment Collection
 * AR Aging Monitoring
 
-Property Management Team
+**Property Management Team**
 
 * Lease Administration
 * Property Maintenance Coordination
 * Tenant Management
 
-Asset Management Team
+**Asset Management Team**
 
 * Building Asset Management
 * Capital Expenditure Tracking
