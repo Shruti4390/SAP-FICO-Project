@@ -16,35 +16,35 @@ Company Name: Skyline Real Estate Group
 
 The Company represents the overall corporate entity used for consolidated financial reporting.
 
-Company Code
+* Company Code
 
-* Company Code: SKY
+Company Code: SKY
 
 The Company Code is the legal accounting entity responsible for maintaining complete financial records and generating statutory financial statements.
 
-Business Areas
+* Business Areas
 
-* Residential Properties (RES)
-* Commercial Properties (COM)
+Residential Properties (RES)
+Commercial Properties (COM)
 
 These Business Areas enable separate financial reporting based on property type.
 
-Fiscal Year Variant
+* Fiscal Year Variant
 
-* January to December Fiscal Year
-* 12 Posting Periods
-* 4 Special Periods for Year-End Adjustments
+January to December Fiscal Year
+12 Posting Periods
+4 Special Periods for Year-End Adjustments
 
-Company Code Currency
+* Company Code Currency
 
 USD (United States Dollar)
 
-Chart of Accounts
+* Chart of Accounts
 
 SKY_COA
 
 The Chart of Accounts includes General Ledger accounts for rental income, maintenance expenses, bank transactions, assets, depreciation, customer receivables, and vendor payables.
 
-Benefits
+* Benefits
 
 The enterprise structure provides standardized accounting, accurate financial reporting, efficient month-end closing, and scalability for future business expansion.
