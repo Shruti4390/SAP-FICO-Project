@@ -16,9 +16,9 @@ Company Name: Skyline Real Estate Group
 
 The Company represents the overall corporate entity used for consolidated financial reporting.
 
-* Company Code
+Company Code
 
-Company Code: SKY
+* Company Code: SKY
 
 The Company Code is the legal accounting entity responsible for maintaining complete financial records and generating statutory financial statements.
 
